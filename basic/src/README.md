@@ -85,9 +85,5 @@ while (condition) {
 
 ```
 
-<ElicitationsGroup message="To expand this README further:">
-  <Elicitation label="Add autoboxing and unboxing code examples" query="Add a section on autoboxing and unboxing with code examples to this README."/>
-  <Elicitation label="Include common loop interview questions and edge cases" query="Add a section with common loop interview questions and unary operator edge cases to this README."/>
-</ElicitationsGroup>
 
 ```
