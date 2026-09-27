@@ -1,6 +1,5 @@
 # Java Fundamentals & Collections Framework: Notes & Code Guide
 
-> Comprehensive notes based on Java Full Stack & Backend Mastery ([00:00:00] to [01:25:00]).
 
 ---
 
